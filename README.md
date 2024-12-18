@@ -18,3 +18,5 @@
 <a href= "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E493991358B7532223C21CBF07AC1CFAF1855CB9C649E1D8C442AB0B1BB6F5ED"> Become An OCI Foundations Associate (2024) </a>
 
 <a href= "https://catalog-education.oracle.com/ords/certview/sharebadge?id=E493991358B7532223C21CBF07AC1CFA5A5CA36F314C31D9A7680F41E16F84CA"> Oracle Cloud Infrastructure 2024 Data Foundations Associate </a>
+
+<a href= "https://catalog-education.oracle.com/ords/certview/sharebadge?id=D1773B34494EB0815B6C70C32050103691F490CE3DA10911DB5CD4F3E66C4D3D"> Become An OCI AI Foundations Associate (2024) </a>
